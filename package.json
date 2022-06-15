@@ -1,0 +1,26 @@
+{
+  "name": "@jayceyang/draganddrop",
+  "version": "1.0.0",
+  "description": "Unified HTML Drag and Drop API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayceyang/draganddrop.git"
+  },
+  "keywords": [
+    "HTML",
+    "JavaScript",
+    "Drag",
+    "and",
+    "Drop"
+  ],
+  "author": "jayceyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayceyang/draganddrop/issues"
+  },
+  "homepage": "https://github.com/jayceyang/draganddrop#readme"
+}
